@@ -3,6 +3,6 @@ Introduction
 
 ### What is an FAQ
 
-An FAQ is
+An FAQ is good
 
 
