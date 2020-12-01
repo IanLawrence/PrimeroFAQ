@@ -201,7 +201,7 @@ into consideration as development continues.
 ### Who owns the data?
 
 This depends on any specific agreements reached with the host country’s
-government, though the baseline scenario is that UNICEF owns the data.
+government or between the organizations involved in the implementation, though the baseline scenario is that data subjects own their data.
 Once again, this will vary with each implementation.
 
 Support
